@@ -3,7 +3,7 @@
 This project is a **front-end recreation of the YouTube homepage**, built using **pure HTML and CSS**.  
 It mimics the familiar look and layout of YouTube — including the header, sidebar, and responsive video grid — all without using any frameworks or JavaScript.
 
-![YouTube Clone Preview](./screenshots/preview.png)
+<img width="1510" height="1057" alt="Image" src="https://github.com/user-attachments/assets/f199ff78-3931-4e5a-92ec-8206edb33496" />
 > *A pixel-perfect recreation of YouTube's homepage using only HTML & CSS*
 
 ---
@@ -60,11 +60,6 @@ It mimics the familiar look and layout of YouTube — including the header, side
 
 ✅ **That's it!** No setup or installation needed.  
 This project is completely static (HTML + CSS only).
-
----
-
-## 🌐 Live Demo
-**[View Live Demo →](https://nguyen0111.github.io/youtube-clone/)**
 
 ---
 
