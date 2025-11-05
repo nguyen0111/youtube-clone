@@ -3,6 +3,9 @@
 This project is a **front-end recreation of the YouTube homepage**, built using **pure HTML and CSS**.  
 It mimics the familiar look and layout of YouTube — including the header, sidebar, and responsive video grid — all without using any frameworks or JavaScript.
 
+![YouTube Clone Preview](./screenshots/preview.png)
+> *A pixel-perfect recreation of YouTube's homepage using only HTML & CSS*
+
 ---
 
 ## 🌟 Features
@@ -17,7 +20,7 @@ It mimics the familiar look and layout of YouTube — including the header, side
 - Smooth hover transitions for icons and sidebar links.  
 - Custom **tooltips** that appear on hover for action buttons.  
 - Notification badge for the bell icon.  
-- Subtle color palette matching YouTube’s clean UI.  
+- Subtle color palette matching YouTube's clean UI.  
 - Organized structure: header, sidebar, and content area are modular and easy to manage.
 
 ### 📱 Responsive Design
@@ -30,6 +33,7 @@ It mimics the familiar look and layout of YouTube — including the header, side
 ---
 
 ## ⚙️ Technologies Used
+
 - **HTML5** – semantic and accessible markup  
 - **CSS3 (Flexbox + Grid)** – responsive and modern layout tools  
 - **Media Queries** – for adaptive design  
@@ -40,29 +44,65 @@ It mimics the familiar look and layout of YouTube — including the header, side
 ## 🚀 How to Run
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/youtube-clone.git
+```bash
+   git clone https://github.com/nguyen0111/youtube-clone.git
+```
+
 2. **Open the project folder**
+```bash
    cd youtube-clone
-3. **Open the project in VS Code (or any text editor)**
-4. **Run the project**
-Open the youtube.html file directly in your browser, or Use the Live Server extension in VS Code:
-Right-click index.html → "Open with Live Server"
-✅ That’s it — no setup or installation needed.
+```
+
+3. **Run the project**
+   - Open the `index.html` file directly in your browser, **OR**
+   - Use the **Live Server** extension in VS Code:
+     - Right-click `index.html` → **"Open with Live Server"**
+
+✅ **That's it!** No setup or installation needed.  
 This project is completely static (HTML + CSS only).
+
+---
+
+## 🌐 Live Demo
+**[View Live Demo →](https://nguyen0111.github.io/youtube-clone/)**
 
 ---
 
 ## 🧑‍💻 Author
 
-**Nguyen [Your Name Here]**  
-🎓 Software & Systems Engineering student @ LUT University  
+**Nguyen**  
+🎓 Software & Systems Engineering Student @ LUT University  
 📍 Based in Finland  
+
+**Connect with me:**  
+- GitHub: [@nguyen0111](https://github.com/nguyen0111)  
 
 ---
 
-## 💬 Feedback
+## 💬 Feedback & Contributions
 
 Got ideas or noticed UI details to improve?  
-Feel free to **open an issue** or connect with me on [GitHub](https://github.com/nguyen0111)!  
-I’m always open to suggestions and feedback to make this project even better. 🚀
+Feel free to:
+- **Open an issue** for bugs or suggestions
+- **Submit a pull request** with improvements
+- **Star ⭐ the repo** if you found it helpful!
+
+I'm always open to feedback and collaboration to make this project even better. 🚀
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 🙏 Acknowledgments
+
+- Design inspiration from [YouTube](https://www.youtube.com)
+- Icons from [Google Material Icons](https://fonts.google.com/icons)
+- Fonts from [Google Fonts](https://fonts.google.com)
+
+---
+
+**⭐ If you like this project, don't forget to give it a star!**
